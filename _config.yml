@@ -1,9 +1,9 @@
 # Site settings
-title: Daniel's Blog
+title: 闭上左眼是为了修行!
 SEOTitle: 宋康的博客 | Daniel's Blog
 header-img: img/home-bg.jpg
 email: skd918@gmail.com
-description: "混沌代码与清晰人生 | 宋康的博客本"
+description: "混沌代码与清晰人生 | 宋康的博客"
 keyword: "songkang, 宋康, programmer"
 url: "https://www.raineye.net"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
